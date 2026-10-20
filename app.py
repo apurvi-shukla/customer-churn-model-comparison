@@ -2,8 +2,8 @@ import streamlit as st
 import joblib
 import numpy as np
 
-scaler = joblib.load(scaler.pkl)
-model = joblib.load(model.pkl)
+scaler = joblib.load("scaler.pkl")
+model = joblib.load("model.pkl")
 
 st.title("Churn Prediction App")
 
