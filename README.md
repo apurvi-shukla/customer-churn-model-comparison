@@ -50,6 +50,12 @@ GridSearchCV is used for hyperparameter tuning of KNN and Random Forest.
 - Applied StandardScaler for feature scaling.
 - Split the dataset into training and testing sets.
 
+## Model Accuracy
+
+- Logistic Regression: To be updated
+- K-Nearest Neighbors (KNN): To be updated
+- Random Forest Classifier: To be updated
+
 ##  Model Performance
 
 - **Model Accuracy:** 89%
