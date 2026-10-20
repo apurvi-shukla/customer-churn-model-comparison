@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib
-import numoy as np
+import numpy as np
 
 scaler = joblib.load(scaler.pkl)
 model = joblib.load(model.pkl)
