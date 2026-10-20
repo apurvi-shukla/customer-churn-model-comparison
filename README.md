@@ -52,9 +52,9 @@ GridSearchCV is used for hyperparameter tuning of KNN and Random Forest.
 
 ## Model Accuracy
 
-- Logistic Regression: To be updated
-- K-Nearest Neighbors (KNN): To be updated
-- Random Forest Classifier: To be updated
+- Logistic Regression: 88.5
+- K-Nearest Neighbors (KNN): 89
+- Random Forest Classifier: 88
 
 ##  Model Performance
 
